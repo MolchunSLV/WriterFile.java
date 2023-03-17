@@ -1,0 +1,5 @@
+Id!   !Name!   !Attribute!   !Company
+1!   !Пластина!   !VNMG 160408-QM 1105!   !Sandvik Coromant
+2!   !Пластина!   !VNMG 160404-QM 1105!   !Sandvik Coromant
+3!   !Пластина!   !CNMG 120404-QM 1105!   !Sandvik Coromant
+5!   !Пластина!   !CNMG 120408-QM 1105!   !Sandvik Coromant
